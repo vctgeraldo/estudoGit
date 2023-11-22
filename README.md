@@ -1,6 +1,7 @@
+# Repositório usado para estudar git hub
 
+## Principais trabalho 
 
-# Nova submissao para o git
-
-
-## Victor Esta trabalhando com o git
+- Connectar com o repositório
+- Fazer um promeiro commit
+- Fazer um merge
