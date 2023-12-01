@@ -6,3 +6,4 @@
 - Fazer um promeiro commit
 - Fazer um merge
 - Inserção feita online
+- Fazendo um commit depois de um tempo
